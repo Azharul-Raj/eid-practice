@@ -1,0 +1,21 @@
+* {
+    margin: 0px;
+    box-sizing: border-box;
+}
+.container{
+display: flex;
+flex-direction: row;
+height: 1000px;
+flex-wrap: wrap;
+align-content: flex-start;
+/* justify-content: space-around; */
+background-color: rgb(0, 153, 255);
+
+}
+.container > div {
+    margin: 20px;
+    padding: 50px;
+    background-color: #fff;
+    height: 50px;
+    /* text-align: ; */
+}

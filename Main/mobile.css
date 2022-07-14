@@ -1,0 +1,50 @@
+body{
+    box-sizing: border-box;
+
+}
+.container{
+    display: block;
+    
+}
+.logo {
+    width: 100%;
+    margin: auto;
+}
+.main-nav{
+    display: block;
+    width: 100%;
+    margin: 0;
+   
+}
+
+ul li a {
+    width: 100%;
+    display: block;
+    text-align: center;
+    background-color: aqua;
+    border-radius: 10px;
+    margin: 10px 0;
+    color: black;
+}
+button{
+    width: 100%;
+}
+.section-1{
+    display: block;
+}
+
+.half-width{
+    width: 100%;
+}
+h2{
+    font-size: 3rem;
+}
+.half-width > p {
+    padding: 0;
+}
+
+.top-img{
+    display: block;
+    width: 100%;
+    height: auto;
+}
